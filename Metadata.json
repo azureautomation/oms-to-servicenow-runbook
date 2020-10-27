@@ -1,0 +1,20 @@
+{
+    "Author": "Kelverion",
+    "ContentSize": 43770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/oms-to-servicenow-runbook/master/OMS-To-ServiceNow.graphrunbook",
+    "DownloadCount": 1363,
+    "Id": "OMS-to-ServiceNow-Runbook-e7802df0",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 501,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-12-16T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This graphical runbook solution will take alerts from Microsoft Operations Management Suite, and Create an Incident for each alert within your Service-Now instance. Each of the alerts is stored in a database to simplify troubleshooting, and allow the reconciliation of alerts.",
+    "Title": "OMS to ServiceNow Runbook",
+    "UpdatedDate": "2017-1-3T00:00:00",
+    "Url": "https://github.com/azureautomation/oms-to-servicenow-runbook",
+    "UserTags": "Monitoring, Azure Automation, GraphicalPS"
+}
